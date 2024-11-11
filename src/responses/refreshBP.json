@@ -1,0 +1,28 @@
+{
+    "Seasons": {
+        "16": {
+            "BattlePassId": "default",
+            "EarnedRewards": [],
+            "ClaimedRewards": [],
+            "XP": 0,
+            "IsPremium": false,
+            "IsFirstEngagement": true,
+            "BoostEndTime": 0,
+            "BoostCooldown": 0
+        },
+        "18": {
+            "BattlePassId": "default",
+            "EarnedRewards": [],
+            "ClaimedRewards": [],
+            "XP": 0,
+            "IsPremium": false,
+            "IsFirstEngagement": true,
+            "BoostEndTime": 0,
+            "BoostCooldown": 0
+        }
+    },
+    "XPBankData": {
+        "LastXPRefreshTimestamp": 0,
+        "XPLeft": 0
+    }
+}

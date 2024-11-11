@@ -1,0 +1,480 @@
+{
+    "GeneralData": {
+        "ID": "Lightning",
+        "Nickname": "Lightning",
+        "Country": "",
+        "Region": "",
+        "IsMigrated": false,
+        "BoxRating": 0,
+        "DuosRating": 0,
+        "Elo": 0,
+        "OpenskillModel": {
+            "Ranking": 0,
+            "RatingData": {
+                "sigma": 3,
+                "mu": 25
+            }
+        },
+        "SoftCurrency": 0,
+        "CustomRating": 0,
+        "HardCurrency": 0,
+        "LoLTokens": 0,
+        "CreatedAt": "2024-03-03T16:42:52.651Z",
+        "Logins": {
+            "LastLoginTime": 1731294395840,
+            "CurrentLoginTime": 1731344895998,
+            "TotalLogins": 1,
+            "DailyConsecutiveLogins": 0
+        },
+        "Stats": {
+            "TotalGamesPlayed": 0,
+            "TotalKills": 0,
+            "TotalDeaths": 0,
+            "Victories": {
+                "Showdown": 0,
+                "Showdown_Duos": 0,
+                "1v1_Competitive_Migration": 0,
+                "1v1_Migration": 0,
+                "1v1_Clash": 0
+            },
+            "Defeats": {
+                "Showdown": 0,
+                "Showdown_Duos": 0,
+                "1v1_Competitive_Migration": 0,
+                "1v1_Migration": 0,
+                "1v1_Clash": 0
+            },
+            "Ties": {
+                "1v1_Competitive_Migration": 0,
+                "1v1_Migration": 0
+            },
+            "ConsecutiveWins": 0
+        },
+        "PrivacySettings": {
+            "PrivacyVersion": "",
+            "HasSeenTailoredAdsPopup": false,
+            "HasAcceptedTailoredAds": false
+        },
+        "Premium": {
+            "AdsDisabled": false,
+            "LTV": 0,
+            "DidMigrateAdsDisabled": false
+        },
+        "NonconsumablePacks": [],
+        "XP": 0,
+        "RVData": {
+            "Watched": 0,
+            "CurrentSkin": "",
+            "LastRvSkinTime": "1970-01-01T00:00:00.000Z"
+        },
+        "MatchHistory": {
+            "MatchSampleTimestamp": 1731294971051,
+            "MatchesSinceSample": 0,
+            "Exceeds": 0
+        },
+        "FriendInviteLink": {},
+        "AgeGate": {
+            "IsUnderage": false,
+            "GuardianPermissionGranted": [],
+            "ShouldShowUpdatedPermissionsPopup": false
+        },
+        "IsBanned": false
+    },
+    "Settings": {
+        "Controls": {
+            "WebGL_VolumeSlider": "0.5",
+            "WebGL_FpsDropdown": "2",
+            "WebGL_MusicVolumeSlider": "0",
+            "WebGL_EditOnRelease": "True",
+            "WebGL_ShowFPS": "True"
+        },
+        "SettingsVersion": 1
+    },
+    "Skins": {
+        "EquippedChampionSkins": {},
+        "CharacterSkins": [
+            "lol.1v1.playerskins.pack.quick.default"
+        ],
+        "EquippedWeaponSkins": [
+            "lol.1v1.weaponskins.melee.pickaxe.default"
+        ],
+        "EquippedCharacterSkin": "lol.1v1.playerskins.pack.63",
+        "OwnedEmotes": [],
+        "EquippedEmotes": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "WeaponSkins": [
+            "lol.1v1.weaponskins.melee.pickaxe.default"
+        ],
+        "CompensationVersion": 1
+    },
+    "BattlePass": {
+        "Seasons": {
+            "16": {
+                "BattlePassId": "default",
+                "EarnedRewards": [],
+                "ClaimedRewards": [],
+                "XP": 0,
+                "IsPremium": false,
+                "IsFirstEngagement": true,
+                "BoostEndTime": 0,
+                "BoostCooldown": 0
+            },
+            "18": {
+                "BattlePassId": "default",
+                "EarnedRewards": [],
+                "ClaimedRewards": [],
+                "XP": 85,
+                "IsPremium": false,
+                "IsFirstEngagement": false,
+                "BoostEndTime": 0,
+                "BoostCooldown": 0
+            }
+        },
+        "XPBankData": {
+            "LastXPRefreshTimestamp": 0,
+            "XPLeft": 0
+        }
+    },
+    "TrophyRoad": {
+        "Seasons": {}
+    },
+    "RankRoad": {
+        "Seasons": {},
+        "AccountRoad": {
+            "XP": 0,
+            "HighestXP": 0,
+            "AvailableRewards": [],
+            "ClaimedRewards": []
+        }
+    },
+    "DailyRewards": {
+        "Rewards": [],
+        "InfluencerCampaign": {
+            "LastSkinClaimTimestamp": 0
+        }
+    },
+    "Equipment": {
+        "Equipment": {
+            "lol.1v1.weapons.9mmpistol": {
+                "Level": 1
+            }
+        },
+        "Loadouts": [
+            {
+                "LoadoutName": "Default",
+                "EquippedArmor": [
+                    "lol.1v1.armors.body.basic"
+                ],
+                "EquippedWeapons": [
+                    "lol.1v1.weapons.9mmpistol"
+                ],
+                "EquippedBuildsMaterial": [
+                    ""
+                ]
+            }
+        ],
+        "EquippedLoadout": 0,
+        "AvailableLoadouts": 2,
+        "AvailableWeaponSlots": 3,
+        "AvailableArmorSlots": 1,
+        "UpgradeCards": {
+            "lol.1v1.weapons.9mmpistol": 0,
+            "lol.1v1.armors.body.basic": 0,
+            "lol.1v1.weapons.scar": 0,
+            "lol.1v1.weapons.pump_shotgun": 0,
+            "lol.1v1.armors.body.recovery": 0,
+            "lol.1v1.weapons.autopistol": 0
+        }
+    },
+    "Inventory": {
+        "LootBoxes": [
+            {
+                "LootBoxId": "lol.1v1.lolbox.lite",
+                "LootBoxLevel": 1,
+                "LootBoxGuid": "new-guid-1234"
+            },
+            {
+                "LootBoxId": "lol.1v1.lolbox.mega",
+                "LootBoxLevel": 1,
+                "LootBoxGuid": "new-guid-5678"
+            }
+        ],
+        "Spins": [],
+        "LootBoxesQueue": [],
+        "MaxLootBoxesQueues": 1,
+        "CachedRewards": {}
+    },
+    "Challenges": {
+        "CurrentFetchTime": 1731340800000,
+        "LastFetchTime": 1731254400000,
+        "LastDailyBonusClaimTime": 0,
+        "CurrentStreak": 0,
+        "DidClaimStreakBonus": false,
+        "DidClaimDailyBonus": false,
+        "DailyChallengesData": {
+            "30": {
+                "Points": 0,
+                "DidClaim": false,
+                "IsNew": true
+            },
+            "31": {
+                "Points": 0,
+                "DidClaim": false,
+                "IsNew": true
+            },
+            "32": {
+                "Points": 0,
+                "DidClaim": false,
+                "IsNew": true
+            }
+        }
+    },
+    "SeasonalChallengesData": {
+        "0": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "1": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "2": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "3": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "4": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "5": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "6": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "7": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "8": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "9": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "10": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "11": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "12": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        },
+        "13": {
+            "Points": 0,
+            "DidClaim": false,
+            "IsNew": true
+        }
+    },
+    "ClaimReceipts": [],
+    "Offers": {
+        "Tier": 0,
+        "Timestamp": "2024-03-03T16:42:52.822Z",
+        "Offers": {
+            "lol.1v1.offers.newdefault": {
+                "Tier": 0,
+                "Timestamp": "2024-03-03T16:42:52.823Z"
+            },
+            "lol.1v1.offers.RotatingBundles": {
+                "Tier": 0,
+                "Timestamp": "2024-03-03T16:42:52.823Z"
+            },
+            "lol.1v1.offers.WeaponSkins": {
+                "Tier": 0,
+                "Timestamp": "2024-03-03T16:42:52.823Z"
+            },
+            "lol.1v1.offers.WeaponsAndSkins": {
+                "Tier": 0,
+                "Timestamp": "2024-03-03T16:42:52.823Z"
+            },
+            "lol.1v1.offers.Weapons": {
+                "Tier": 0,
+                "Timestamp": "2024-03-03T16:42:52.823Z"
+            },
+            "lol.1v1.offers.mythics": {
+                "Tier": 0,
+                "Timestamp": "2024-03-03T16:42:52.823Z"
+            },
+            "lol.1v1.offers.Pickaxe": {
+                "Tier": 0,
+                "Timestamp": "2024-03-03T16:42:52.823Z"
+            },
+            "lol.1v1.offers.MondayOffers": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.Spins": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.Weapon_shards": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.CCandKiller": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.WednesdayOffers": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.SaturdayOffers": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.SundayOffers": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.ThursdayOffers": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.CCandHellfire": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.FridayOffers": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.TuesdayOffers": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.CCandSkull": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.CCandDragonWhisper": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.QuickSkins": {
+                "Tier": 0,
+                "Timestamp": "2024-04-05T19:35:41.691Z"
+            },
+            "lol.1v1.offers.default": {
+                "Tier": 0,
+                "Timestamp": "2024-03-03T16:42:52.822Z"
+            },
+            "lol.1v1.offers.Champion_shards": {
+                "Tier": 0,
+                "Timestamp": "2024-03-03T16:42:52.822Z"
+            }
+        }
+    },
+    "Leaderboards": {
+        "Nickname": "",
+        "Leaderboards": {},
+        "IsBlacklisted": false
+    },
+    "Subscriptions": {
+        "Subscriptions": {}
+    },
+    "ProgressionEvents": {
+        "Events": {
+            "lol.1v1.events.20240228_FireballHunt": {
+                "EarnedTiers": [],
+                "ClaimedTiers": [],
+                "XP": 0
+            },
+            "lol.1v1.events.20240304_StarHunt": {
+                "EarnedTiers": [],
+                "ClaimedTiers": [],
+                "XP": 0
+            },
+            "lol.1v1.events.20240319_RebelHunt": {
+                "EarnedTiers": [],
+                "XP": 0,
+                "ClaimedTiers": []
+            },
+            "lol.1v1.events.20240402_RPGHunt": {
+                "XP": 0,
+                "EarnedTiers": [],
+                "ClaimedTiers": []
+            },
+            "lol.1v1.events.20240628_RPGHunt": {
+                "EarnedTiers": [],
+                "XP": 0,
+                "ClaimedTiers": []
+            },
+            "lol.1v1.events.ElectroHunt": {
+                "Occurences": {}
+            }
+        }
+    },
+    "UserRV": {
+        "BoxTimeCutter": {
+            "LastRefreshTime": 1731344896541,
+            "RVsLeft": 3
+        },
+        "HighValueRVOffer": {
+            "LastRefreshTime": 1731344896541,
+            "RVsLeft": 3
+        }
+    },
+    "Champions": {
+        "SelectedChampion": "lol.1v1.champions.quick",
+        "OwnedChampions": {
+            "lol.1v1.champions.quick": {
+                "Level": 1
+            }
+        },
+        "ChampionShards": {
+            "lol.1v1.champions.quick": 0
+        }
+    },
+    "DailyModes": {
+        "DailyModes": {}
+    },
+    "UserAlbumsData": {
+        "UserAlbums": {}
+    },
+    "PsfToken": "Lightning",
+    "DevicePerformanceTier": 0
+}

@@ -1,0 +1,458 @@
+{
+    "banner_image": {
+        "image_data_type": "Url",
+        "image_data": {
+            "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Automations/Seasons/DarkLegends/logo512.png"
+        }
+    },
+    "premium_popup_config": {
+        "background_image": {
+            "image_data_type": "Url",
+            "image_data": {
+                "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Automations/Seasons/DarkLegends/Web_ActivatePopup.jpg"
+            }
+        }
+    },
+    "is_timer_visible": true,
+    "display_new_bp_popup": false,
+    "BackgroundImage": {
+        "image_data_type": "Url",
+        "image_data": {
+            "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Automations/Seasons/DarkLegends/BG.jpg"
+        }
+    },
+    "LobbyButtonImage": {
+        "image_data_type": "Url",
+        "image_data": {
+            "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Automations/Seasons/DarkLegends/Lobby_Button.jpg"
+        }
+    },
+    "activate_button_action": {
+        "Actions": [
+            {
+                "ActionName": "PopUp",
+                "ActionValues": {
+                    "popup_type": "subscription",
+                    "product_id": "lol.1v1.subscription.basic"
+                }
+            }
+        ]
+    },
+    "battle_pass": {
+        "placement_xp": [
+            10,
+            3
+        ],
+        "tiers": [
+            {
+                "xp": 0,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.ultra"
+                ],
+                "tier_up_price": 15
+            },
+            {
+                "xp": 30,
+                "free_rewards": [
+                    "lol.1v1.tokens.pack.05"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.tokens.pack.030"
+                ],
+                "tier_up_price": 15
+            },
+            {
+                "xp": 60,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lootbox.LuckySpin"
+                ],
+                "tier_up_price": 15
+            },
+            {
+                "xp": 90,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "tier_up_price": 15
+            },
+            {
+                "xp": 120,
+                "is_premium_unique": true,
+                "unique_image": {
+                    "image_data_type": "Url",
+                    "image_data": {
+                        "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Automations/Seasons/DarkLegends/Fang_pass_reward.png"
+                    }
+                },
+                "free_rewards": [
+                    "lol.1v1.tokens.pack.05"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.champions.fang"
+                ],
+                "tier_up_price": 15
+            },
+            {
+                "xp": 160,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lootbox.BoxesSpin"
+                ],
+                "tier_up_price": 20
+            },
+            {
+                "xp": 210,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "tier_up_price": 20
+            },
+            {
+                "xp": 270,
+                "free_rewards": [
+                    "lol.1v1.tokens.pack.05"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.tokens.pack.030"
+                ],
+                "tier_up_price": 25
+            },
+            {
+                "xp": 350,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.ultra"
+                ],
+                "tier_up_price": 30
+            },
+            {
+                "xp": 440,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lootbox.GemsSpin"
+                ],
+                "tier_up_price": 35
+            },
+            {
+                "xp": 550,
+                "free_rewards": [
+                    "lol.1v1.lootbox.LuckySpin"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "tier_up_price": 45
+            },
+            {
+                "xp": 680,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.tokens.pack.030"
+                ],
+                "tier_up_price": 50
+            },
+            {
+                "xp": 830,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "tier_up_price": 55
+            },
+            {
+                "xp": 1010,
+                "free_rewards": [
+                    "lol.1v1.tokens.pack.010"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lootbox.EmoteSpinBP"
+                ],
+                "tier_up_price": 65
+            },
+            {
+                "xp": 1210,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "tier_up_price": 70
+            },
+            {
+                "xp": 1430,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.tokens.pack.030"
+                ],
+                "tier_up_price": 80
+            },
+            {
+                "xp": 1680,
+                "free_rewards": [
+                    "lol.1v1.tokens.pack.010"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "tier_up_price": 85
+            },
+            {
+                "xp": 1950,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lootbox.BoxesSpin"
+                ],
+                "tier_up_price": 95
+            },
+            {
+                "xp": 2240,
+                "free_rewards": [
+                    "lol.1v1.lolbox.lite"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "tier_up_price": 100
+            },
+            {
+                "xp": 2550,
+                "free_rewards": [
+                    "lol.1v1.tokens.pack.010"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.tokens.pack.040"
+                ],
+                "tier_up_price": 105
+            },
+            {
+                "xp": 2870,
+                "free_rewards": [
+                    "lol.1v1.lootbox.LuckySpin"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "tier_up_price": 110
+            },
+            {
+                "xp": 3210,
+                "free_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lootbox.GemsSpin"
+                ],
+                "tier_up_price": 110
+            },
+            {
+                "xp": 3560,
+                "free_rewards": [
+                    "lol.1v1.tokens.pack.020"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "tier_up_price": 115
+            },
+            {
+                "xp": 3920,
+                "free_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.tokens.pack.040"
+                ],
+                "tier_up_price": 115
+            },
+            {
+                "xp": 4290,
+                "free_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 4660,
+                "free_rewards": [
+                    "lol.1v1.tokens.pack.020"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lootbox.EmoteSpinBP"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 5040,
+                "free_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 5420,
+                "free_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.tokens.pack.050"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 5800,
+                "free_rewards": [
+                    "lol.1v1.tokens.pack.030"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.ultra"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 6180,
+                "free_rewards": [
+                    "lol.1v1.lolbox.mega"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.lootbox.PickaxeSpinBP"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 6570,
+                "is_premium_unique": true,
+                "unique_image": {
+                    "image_data_type": "Url",
+                    "image_data": {
+                        "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Automations/Seasons/DarkLegends/Pistol_pass_reward.png"
+                    }
+                },
+                "free_rewards": [
+                    "lol.1v1.lolbox.ultra"
+                ],
+                "premium_rewards": [
+                    "lol.1v1.weapons.silver_bullet"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 6960,
+                "free_rewards": [],
+                "premium_rewards": [
+                    "lol.1v1.tokens.pack.070"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 7350,
+                "free_rewards": [],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.ultra"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 7740,
+                "free_rewards": [],
+                "premium_rewards": [
+                    "lol.1v1.tokens.pack.070"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 8130,
+                "free_rewards": [],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.ultra"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 8520,
+                "free_rewards": [],
+                "premium_rewards": [
+                    "lol.1v1.tokens.pack.070"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 8910,
+                "free_rewards": [],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.ultra"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 9300,
+                "free_rewards": [],
+                "premium_rewards": [
+                    "lol.1v1.tokens.pack.080"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 9690,
+                "free_rewards": [],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.ultra"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 10080,
+                "free_rewards": [],
+                "premium_rewards": [
+                    "lol.1v1.tokens.pack.080"
+                ],
+                "tier_up_price": 120
+            },
+            {
+                "xp": 10470,
+                "is_premium_unique": true,
+                "free_rewards": [],
+                "premium_rewards": [
+                    "lol.1v1.lolbox.ultra"
+                ]
+            }
+        ],
+        "currentSeason": "b5c4a2e7-e856-a817-9a43-98e16f241e68",
+        "battlePassId": "b5c4a2e7-e856-a817-9a43-98e16f241e68"
+    },
+    "current_season": "b5c4a2e7-e856-a817-9a43-98e16f241e68",
+    "start_date": "2024-10-14T21:00:00.450Z",
+    "end_date": "2024-11-28T21:00:00.450Z"
+}

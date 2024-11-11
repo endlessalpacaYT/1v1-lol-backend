@@ -1,0 +1,2140 @@
+{
+    "album_id": "lol.1v1.album.dragon_lab",
+    "album_view": {
+        "album_name": "",
+        "main_button_image": {
+            "image_data_type": "Url",
+            "image_data": {
+                "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/TheLabCollectionAlbum/DragonLab/Assets/Screen/the-lab-lobby-button.png"
+            }
+        },
+        "background_image": {
+            "image_data_type": "Url",
+            "image_data": {
+                "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/TheLabCollectionAlbum/DragonLab/Assets/Screen/Dragons_Lab_BG_SETS2.jpg"
+            }
+        },
+        "logo_image": {
+            "image_data_type": "Url",
+            "image_data": {
+                "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/TheLabCollectionAlbum/DragonLab/Assets/Screen/Lab-Logo.png"
+            }
+        },
+        "monetization_image": {
+            "image_data_type": "Url",
+            "image_data": {
+                "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/TheLabCollectionAlbum/GameLegends/Lab2/LabAssets/GoToShop_Slogo.png"
+            }
+        },
+        "album_popup_complete": {
+            "popup_background": {
+                "image_data_type": "Url",
+                "image_data": {
+                    "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/TheLabCollectionAlbum/GameLegends/collection-bottom-banner_ShopRedirectionLab.png"
+                }
+            }
+        },
+        "tooltip_texts": [
+            "",
+            "",
+            ""
+        ]
+    },
+    "album_data": {
+        "sets": [
+            "lol.1v1.album.set_Lair",
+            "lol.1v1.album.set_Vikings",
+            "lol.1v1.album.set_DragonArtifacts",
+            "lol.1v1.album.set_Kingdom",
+            "lol.1v1.album.set_Fantasy",
+            "lol.1v1.album.set_Guardian"
+        ],
+        "album_rewards": [
+            {
+                "reward_data": {
+                    "RewardType": "LOLTokens",
+                    "Amount": 10000,
+                    "RewardInfo": ""
+                },
+                "is_displayable": true,
+                "reward_custom_image": ""
+            },
+            {
+                "reward_data": {
+                    "RewardType": "Product",
+                    "Amount": 1,
+                    "ProductID": "lol.1v1.weaponskins.rpg.dragon",
+                    "RewardInfo": "Dragon Whisper"
+                },
+                "is_displayable": true,
+                "reward_custom_image": ""
+            },
+            {
+                "reward_data": {
+                    "RewardType": "Product",
+                    "Amount": 1,
+                    "ProductID": "lol.1v1.lolbox.ultra",
+                    "RewardInfo": "Ultra Box"
+                },
+                "is_displayable": true,
+                "reward_custom_image": ""
+            }
+        ]
+    },
+    "raffle_ticket": {
+        "ticket_prize_active": false,
+        "form_url": "https://www.surveymonkey.com/r/6VW7DFW?uid=",
+        "icon": {
+            "image_data_type": "Url",
+            "image_data": {
+                "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/TheLabCollectionAlbum/UniqueReward_256X256.png"
+            }
+        },
+        "display_name": "Raffle Ticket",
+        "tooltip_text": "YOUR CHANCE TO PLAY WITH A GAME LEGEND!"
+    },
+    "capsules_overrides": {
+        "lol.1v1.lolbox.capsule_bronze": {
+            "Name": "Bronze Capsule",
+            "IncludeOwnedItemsInPools": true,
+            "RemoveEmptyPoolsAndDistributions": true,
+            "Contents": [
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 263000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 225000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 150000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 90000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 263000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 225000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 150000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 263000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 225000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 150000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "lol.1v1.lolbox.capsule_silver": {
+            "Name": "Silver Capsule",
+            "IncludeOwnedItemsInPools": true,
+            "RemoveEmptyPoolsAndDistributions": true,
+            "Contents": [
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "lol.1v1.lolbox.capsule_gold": {
+            "Name": "Gold Capsule",
+            "IncludeOwnedItemsInPools": true,
+            "RemoveEmptyPoolsAndDistributions": true,
+            "Contents": [
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_FourStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_FourStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "lol.1v1.lolbox.capsule_silver_plus": {
+            "Name": "Silver Plus Capsule",
+            "IncludeOwnedItemsInPools": true,
+            "RemoveEmptyPoolsAndDistributions": true,
+            "Contents": [
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 113000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 80000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 38000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "lol.1v1.lolbox.capsule_gold_plus": {
+            "Name": "Gold Plus Capsule",
+            "IncludeOwnedItemsInPools": true,
+            "RemoveEmptyPoolsAndDistributions": true,
+            "Contents": [
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_FourStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_FourStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_FourStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_OneStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 60000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 88000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 50000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_FourStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "lol.1v1.lolbox.capsule_diamond_plus": {
+            "Name": "Rainbow Capsule",
+            "IncludeOwnedItemsInPools": true,
+            "RemoveEmptyPoolsAndDistributions": true,
+            "Contents": [
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_FourStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_FourStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_FourStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_FourStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Probability": 100,
+                    "Distribution": [
+                        {
+                            "Weight": 1,
+                            "Configuration": {
+                                "Min": 1,
+                                "Max": 1,
+                                "Distribution": [
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetA_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 40000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_TwoStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 125000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_ThreeStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetB_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetC_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetD_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetE_FourStarCards"
+                                    },
+                                    {
+                                        "Weight": 100000,
+                                        "RewardType": "Product",
+                                        "PoolID": "Album_B_SetF_FourStarCards"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "store_addons": [],
+    "occurence_id": "072e29f0-49b1-dda0-5a56-1ff566292461",
+    "start_date": "2024-10-26T21:00:00.027Z",
+    "end_date": "2024-11-25T21:00:00.027Z"
+}

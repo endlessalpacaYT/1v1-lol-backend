@@ -1,0 +1,187 @@
+{
+    "display_name": "Electro Hunt",
+    "game_modes": [
+        "Showdown",
+        "Showdown_Duos",
+        "LobbyEvent"
+    ],
+    "xp_sprite": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Events/TronHunt/XP-Tron.png",
+    "mode_badge": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Events/TronHunt/XP-Tron.png",
+    "lobby_button": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Events/GeneralEvents/ElectroHunt/EventElectroHunt.jpg",
+    "info_popup_header": "Complete these actions to progress",
+    "info_text": "Play Showdown to get this electrifying Champion!",
+    "event_screen": {
+        "logo": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Events/GeneralEvents/ElectroHunt/LogoElectronHunt-512.png",
+        "banner_image": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Events/banner.png",
+        "background_image": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Events/TronHunt/BG_01b.jpg",
+        "show_monetization_button": true,
+        "monetization_button_image": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Events/TronHunt/XP-Tron.png",
+        "monetization_button_cta": {
+            "Actions": [
+                {
+                    "ActionName": "ShopTab",
+                    "ActionValues": {
+                        "tab": "Events"
+                    }
+                }
+            ]
+        }
+    },
+    "actions": [
+        {
+            "type": "OpenSupplyCrate",
+            "xp": 6,
+            "challenge_text": "Open In-Game Supply Crates"
+        },
+        {
+            "type": "PlayMatch",
+            "xp": 30,
+            "challenge_text": "Place in the top 3",
+            "conditions": [
+                {
+                    "type": "TopPlacement",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "type": "OpenBox",
+            "xp": 30,
+            "challenge_text": "Open LOL Boxes",
+            "conditions": [
+                {
+                    "type": "OpenLootboxOfRarity",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "type": "Eliminate",
+            "xp": 45,
+            "challenge_text": "Eliminate with the Tesla Cannon",
+            "conditions": [
+                {
+                    "type": "Weapon",
+                    "value": "lol.1v1.weapons.teslacannon"
+                }
+            ]
+        }
+    ],
+    "tiers": [
+        {
+            "xp": 50,
+            "rewards": [
+                {
+                    "RewardType": "Product",
+                    "ProductID": "lol.1v1.lolbox.lite"
+                }
+            ]
+        },
+        {
+            "xp": 100,
+            "rewards": [
+                {
+                    "RewardType": "LOLTokens",
+                    "Amount": 5
+                }
+            ]
+        },
+        {
+            "xp": 150,
+            "rewards": [
+                {
+                    "RewardType": "Product",
+                    "ProductID": "lol.1v1.lolbox.lite"
+                }
+            ]
+        },
+        {
+            "xp": 250,
+            "rewards": [
+                {
+                    "RewardType": "Product",
+                    "ProductID": "lol.1v1.lolbox.capsule_bronze"
+                }
+            ]
+        },
+        {
+            "xp": 500,
+            "rewards": [
+                {
+                    "RewardType": "Spin",
+                    "ProductID": "lol.1v1.lootbox.EmoteSpin"
+                }
+            ]
+        },
+        {
+            "xp": 950,
+            "rewards": [
+                {
+                    "RewardType": "LOLTokens",
+                    "Amount": 10
+                }
+            ]
+        },
+        {
+            "xp": 1600,
+            "rewards": [
+                {
+                    "RewardType": "Product",
+                    "ProductID": "lol.1v1.lolbox.mega"
+                }
+            ]
+        },
+        {
+            "xp": 2500,
+            "rewards": [
+                {
+                    "RewardType": "LOLTokens",
+                    "Amount": 10
+                }
+            ]
+        },
+        {
+            "xp": 3750,
+            "rewards": [
+                {
+                    "RewardType": "Product",
+                    "ProductID": "lol.1v1.lolbox.capsule_silver"
+                }
+            ]
+        },
+        {
+            "xp": 5600,
+            "rewards": [
+                {
+                    "RewardType": "Product",
+                    "ProductID": "lol.1v1.lolbox.ultra_electro"
+                }
+            ]
+        }
+    ],
+    "store_addons": [
+        {
+            "GroupType": "Events",
+            "DailyProducts": [
+                [
+                    {
+                        "product_id": "lol.1v1.bundlepacks.ElectroHuntXP_Small",
+                        "prefab_type": "Narrow"
+                    },
+                    {
+                        "product_id": "lol.1v1.bundlepacks.ElectroHuntXP_Medium",
+                        "prefab_type": "Narrow"
+                    },
+                    {
+                        "product_id": "lol.1v1.bundlepacks.ElectroHuntXP_Large",
+                        "prefab_type": "Narrow"
+                    }
+                ]
+            ]
+        }
+    ],
+    "occurence_id": "f6628eb2-8f14-395b-0f19-a5d1eab08362",
+    "event_id": "lol.1v1.events.ElectroHunt",
+    "start_date": "2024-11-08T21:00:00.441Z",
+    "end_date": "2024-11-15T21:00:00.441Z"
+}
