@@ -18,6 +18,38 @@ class Handlers
             return;
         }
         
+        if (oSession.uriContains("/v4710_dailySpins/getDailySpinDat")) {
+            return;
+        }
+        
+        if (oSession.uriContains("/v4710_lootBox/openGachaLootBox")) {
+            return;
+        }
+        
+        if (oSession.uriContains("/v4710_friends/recentPlayers")) {
+            return;
+        }
+        
+        if (oSession.uriContains("/v4710_lootBox/earnEndOfMatchRewards")) {
+            return;
+        }
+        
+        if (oSession.uriContains("/v4710_rating/update")) {
+            return;
+        }
+        
+        if (oSession.uriContains("/v4710_progressionEvents/updateProgress")) {
+            return;
+        }
+        
+        if (oSession.uriContains("/v4710_challenges/updateChallengesProgress")) {
+            return;
+        }
+        
+        if (oSession.uriContains("/v4710_player/updateProgressAndStats")) {
+            return;
+        }
+        
         if (oSession.uriContains("/v4710_userSettings/time")) {
             return;
         }
